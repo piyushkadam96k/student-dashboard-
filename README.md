@@ -6,6 +6,9 @@
 
 A modern, distraction-free productivity dashboard for students. Features a minimalist "Bento Grid" layout, integrated task management, focus timer, and custom themes.
 
+https://student-dashboard-green-phi.vercel.app/
+
+
 ## 🚀 Features
 
 -   **⏱️ Focus Timer**: Built-in Pomodoro timer (25m Focus / 5m Break).
